@@ -1,0 +1,12 @@
+flask-transaction-api/
+│
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── models.py
+│   ├── routes.py
+│   └── service.py
+│
+├── run.py
+├── requirements.txt
+└── README.md
